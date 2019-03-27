@@ -1,0 +1,15 @@
+{
+  "name": "app_teste",
+  "version": "1.0.0",
+  "description": "Testando criacao de projeto node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hdolz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2"
+  }
+}
